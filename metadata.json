@@ -1,0 +1,5 @@
+{
+  "name": "ANDROID KRYPTO 101",
+  "description": "A comprehensive configuration and deployment guide for running various crypto miners (XMRig, Verus, Rainbow Miner) on Android via Termux.",
+  "requestFramePermissions": []
+}
